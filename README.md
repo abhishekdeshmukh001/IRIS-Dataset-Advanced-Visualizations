@@ -11,3 +11,8 @@ In this project, I've applied advanced data visualization techniques such as:
       1. Scatter plots with color-coded data points for feature analysis.
       2. Heatmaps and correlation matrices to identify relationships between features.
       3. Pairplot to displays pairwise relationships between multiple numeric attributes in the dataset.
+
+
+## Authors
+
+- [@abhishekdeshmukh001](https://github.com/abhishekdeshmukh001)
